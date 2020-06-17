@@ -1,0 +1,12 @@
+person={'name' : 'Phionah','age' : 18,'country' : 'Uganda','county' : 'kampla'}
+print(person['name'])
+print(person['age'])
+
+phionah={'name' : 'Phionah','age' : 18,'country' : 'Uganda','county' : 'kampla'}
+gad={'name' : 'Gad','age' : 29,'country' : 'Uganda','county' : 'Masaka'}
+pesh={'name' : 'Pesh','age' : 19,'country' : 'Uganda','county' : 'Kanungu'}
+peter={'name' : 'Peter','age' :31,'country' : 'Uganda','county' : 'Kabale'}
+dorothy={'name' : 'Dorothy','age' : 20,'chountry' : 'Uganda','county' : 'Kihihi'}
+
+people=[phionah,gad,pesh,peter,dorothy]
+print(student)
