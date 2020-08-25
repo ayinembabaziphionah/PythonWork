@@ -1,0 +1,19 @@
+import time
+print("Start the attack of US Central Database...")
+time.sleep(5) #sleep for 5 seconds
+print("Attacking in progress 10%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 20%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 40%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 60%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 80%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 99%...")
+time.sleep(2) #sleep for 2 seconds
+print("Attacking in progress 100%...")
+print("Attacking completed")
+time.sleep(2) #sleep for 2 seconds
+print("Hacked by Ayinembabazi Phionah")
